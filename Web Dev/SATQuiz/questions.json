@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What does 'HTML' stand for?",
+    "options": ["Hyperlinks and Text Markup Language", "Hyper Text Markup Language", "Home Tool Markup Language", "High Tech Modern Language"],
+    "answer": "Hyper Text Markup Language"
+  },
+  {
+    "question": "Who is known as the father of modern computing?",
+    "options": ["Alan Turing", "Charles Babbage", "Bill Gates", "Steve Jobs"],
+    "answer": "Charles Babbage"
+  },
+  {
+    "question": "What is the largest planet in our solar system?",
+    "options": ["Earth", "Jupiter", "Saturn", "Mars"],
+    "answer": "Jupiter"
+  },
+  {
+    "question": "Which company created the programming language Python?",
+    "options": ["Microsoft", "Google", "Netherlands-based developer", "Apple"],
+    "answer": "Netherlands-based developer"
+  },
+  {
+    "question": "What is the capital city of Japan?",
+    "options": ["Beijing", "Seoul", "Tokyo", "Kyoto"],
+    "answer": "Tokyo"
+  },
+  {
+    "question": "In binary, what number does '1010' represent in decimal?",
+    "options": ["8", "9", "10", "11"],
+    "answer": "10"
+  },
+  {
+    "question": "Which gas do humans need to breathe to survive?",
+    "options": ["Carbon Dioxide", "Nitrogen", "Oxygen", "Hydrogen"],
+    "answer": "Oxygen"
+  },
+  {
+    "question": "Which programming language is often used for web development alongside HTML and CSS?",
+    "options": ["Python", "JavaScript", "C++", "Ruby"],
+    "answer": "JavaScript"
+  },
+  {
+    "question": "What is the fastest land animal?",
+    "options": ["Horse", "Cheetah", "Leopard", "Lion"],
+    "answer": "Cheetah"
+  },
+  {
+    "question": "Which company created the Windows operating system?",
+    "options": ["Apple", "Google", "Microsoft", "IBM"],
+    "answer": "Microsoft"
+  },
+  {
+    "question": "What is the chemical formula for water?",
+    "options": ["H2O", "CO2", "NaCl", "O2"],
+    "answer": "H2O"
+  },
+  {
+    "question": "Which programming language is known for its logo featuring a coffee cup?",
+    "options": ["C#", "Python", "Java", "PHP"],
+    "answer": "Java"
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "options": ["Michelangelo", "Leonardo da Vinci", "Raphael", "Vincent van Gogh"],
+    "answer": "Leonardo da Vinci"
+  },
+  {
+    "question": "Which company developed the first iPhone?",
+    "options": ["Samsung", "Apple", "Nokia", "Motorola"],
+    "answer": "Apple"
+  },
+  {
+    "question": "What is the smallest prime number?",
+    "options": ["0", "1", "2", "3"],
+    "answer": "2"
+  },
+  {
+    "question": "In computing, what does 'AI' stand for?",
+    "options": ["Automated Information", "Artificial Intelligence", "Advanced Interface", "Algorithmic Input"],
+    "answer": "Artificial Intelligence"
+  },
+  {
+    "question": "Which ocean is the largest?",
+    "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+    "answer": "Pacific Ocean"
+  },
+  {
+    "question": "What is GitHub mainly used for?",
+    "options": ["Video editing", "Version control and collaboration", "Graphic design", "Cloud storage"],
+    "answer": "Version control and collaboration"
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "options": ["Mercury", "Venus", "Mars", "Saturn"],
+    "answer": "Mars"
+  },
+  {
+    "question": "Which computer scientist developed the concept of algorithms and is often linked to Ada Lovelace?",
+    "options": ["Grace Hopper", "Alan Turing", "Charles Babbage", "Tim Berners-Lee"],
+    "answer": "Charles Babbage"
+  }
+]
